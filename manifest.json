@@ -1,0 +1,10 @@
+{
+	"manifest_version": 3,
+	"version": "1.0",
+	"name": "Zap",
+	"author": "Danilo de Oliveira Silva",
+	"action": {
+		"default_title": "Mensagem Instantânea",
+		"default_popup": "index.html"
+	}
+}
